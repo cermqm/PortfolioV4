@@ -1,0 +1,61 @@
+.title {
+    /* position: relative; */
+    margin-top: 55px !important;
+    padding-left: 20px;
+    color: white;
+}
+
+body {
+    background: url("../assets/background.jpg") no-repeat center center fixed;
+    background-size: 150% 150%;
+}
+
+.img-responsive {
+    max-width: 35%;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+}
+
+.text-white {
+    color: white;
+}
+
+.abouttext {
+    line-height: 32px;
+    font-size: 3vw;
+    margin: 20px;
+    padding-left: 20px;
+}
+
+.aboutme {
+    position: absolute !important;
+    margin-left: 10%;
+    margin-right: 10%;
+    /* max-width: 75%; */
+}
+
+.aboutname {
+    position: absolute !important;
+    margin-left: 30px;
+    margin-top: 5px;
+    color: white;
+    font-size: 32px;
+}
+
+.myname {
+    position: absolute !important;
+    color: white !important;
+    margin-left: 75px !important;
+    margin-top: 8px !important;
+    font-size: 25px;
+}
+
+.reactlogo {
+    position: absolute !important;
+    height: 80%;
+    vertical-align: center;
+    margin-top: 5px;
+}
